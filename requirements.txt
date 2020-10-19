@@ -1,7 +1,6 @@
 Django
 Pillow
 django-daterangefilter
-psycopg2-binary
 django-admin-sortable2
 mock
 filefield-cache
