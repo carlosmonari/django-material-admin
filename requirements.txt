@@ -1,8 +1,8 @@
-Django==3.0.7
-Pillow==7.1.2
-django-daterangefilter==1.0.0
-psycopg2-binary==2.8.3
-django-admin-sortable2==0.7.5
-mock==3.0.5
-filefield-cache==0.0.5
-django-modeltranslation==0.15.1
+Django
+Pillow
+django-daterangefilter
+psycopg2-binary
+django-admin-sortable2
+mock
+filefield-cache
+django-modeltranslation
